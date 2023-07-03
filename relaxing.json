@@ -47,7 +47,7 @@
   {
     "id": 5,
     "name": "Underwater",
-    "free": true,
+    "free": false,
     "category": "Water",
     "description": "Submerged sounds of the ocean depths.",
     "audio": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/audio/underwater.mp3?raw=true",
@@ -56,7 +56,7 @@
   {
     "id": 6,
     "name": "Sunrise in the Amazon",
-    "free": true,
+    "free": false,
     "category": "Nature",
     "description": "Serene sounds of a vibrant Amazon rainforest during sunrise.",
     "audio": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/audio/sunrise_amazon.mp3?raw=true",
@@ -65,7 +65,7 @@
   {
     "id": 7,
     "name": "Ocean Waves",
-    "free": true,
+    "free": false,
     "category": "Water",
     "description": "Gentle sounds of waves crashing on a sandy beach.",
     "audio": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/audio/ocean_waves.mp3?raw=true",
@@ -74,7 +74,7 @@
   {
     "id": 8,
     "name": "Deep Night",
-    "free": true,
+    "free": false,
     "category": "Ambience",
     "description": "Calming sounds of a quiet night with a hint of wind.",
     "audio": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/audio/deep_night.mp3?raw=true",
@@ -83,7 +83,7 @@
   {
     "id": 9,
     "name": "Waterfalls",
-    "free": true,
+    "free": false,
     "category": "Water",
     "description": "Powerful sounds of cascading waterfalls in a lush valley.",
     "audio": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/audio/waterfalls.mp3?raw=true",
