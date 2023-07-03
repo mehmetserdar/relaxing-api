@@ -5,8 +5,8 @@
     "free": true,
     "category": "Rain",
     "description": "Gentle raindrops falling softly.",
-    "audio": "https://example.com/soft_rain.mp3",
-    "image": "https://example.com/soft_rain.jpg"
+    "audio": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/audio/soft_rain.mp3?raw=true",
+    "image": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/image/soft_rain.jpg?raw=true"
   },
   {
     "id": 1,
@@ -14,8 +14,8 @@
     "free": true,
     "category": "Nature",
     "description": "Sounds of birds chirping in a lush jungle.",
-    "audio": "https://example.com/jungle_birds.mp3",
-    "image": "https://example.com/jungle_birds.jpg"
+    "audio": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/audio/jungle_birds.mp3?raw=true",
+    "image": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/image/jungle_birds.jpg?raw=true"
   },
   {
     "id": 2,
@@ -23,8 +23,8 @@
     "free": true,
     "category": "Rain",
     "description": "Heavy rain accompanied by distant thunder.",
-    "audio": "https://example.com/rain_and_thunder.mp3",
-    "image": "https://example.com/rain_and_thunder.jpg"
+    "audio": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/audio/rain_and_thunder.mp3?raw=true",
+    "image": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/image/rain_and_thunder.jpg?raw=true"
   },
   {
     "id": 3,
@@ -32,8 +32,8 @@
     "free": true,
     "category": "Nature",
     "description": "Sounds of various birds singing and chirping.",
-    "audio": "https://example.com/birds.mp3",
-    "image": "https://example.com/birds.jpg"
+    "audio": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/audio/birds.mp3?raw=true",
+    "image": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/image/birds.jpg?raw=true"
   },
   {
     "id": 4,
@@ -41,8 +41,8 @@
     "free": true,
     "category": "Ambience",
     "description": "Crackling sounds of a cozy fireplace.",
-    "audio": "https://example.com/fireplace.mp3",
-    "image": "https://example.com/fireplace.jpg"
+    "audio": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/audio/fireplace.mp3?raw=true",
+    "image": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/image/fireplace.jpg?raw=true"
   },
   {
     "id": 5,
@@ -50,8 +50,8 @@
     "free": true,
     "category": "Water",
     "description": "Submerged sounds of the ocean depths.",
-    "audio": "https://example.com/underwater.mp3",
-    "image": "https://example.com/underwater.jpg"
+    "audio": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/audio/underwater.mp3?raw=true",
+    "image": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/image/underwater.jpg?raw=true"
   },
   {
     "id": 6,
@@ -59,8 +59,8 @@
     "free": true,
     "category": "Nature",
     "description": "Serene sounds of a vibrant Amazon rainforest during sunrise.",
-    "audio": "https://example.com/sunrise_amazon.mp3",
-    "image": "https://example.com/sunrise_amazon.jpg"
+    "audio": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/audio/sunrise_amazon.mp3?raw=true",
+    "image": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/image/sunrise_amazon.jpg?raw=true"
   },
   {
     "id": 7,
@@ -68,8 +68,8 @@
     "free": true,
     "category": "Water",
     "description": "Gentle sounds of waves crashing on a sandy beach.",
-    "audio": "https://example.com/ocean_waves.mp3",
-    "image": "https://example.com/ocean_waves.jpg"
+    "audio": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/audio/ocean_waves.mp3?raw=true",
+    "image": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/image/ocean_waves.jpg?raw=true"
   },
   {
     "id": 8,
@@ -77,8 +77,8 @@
     "free": true,
     "category": "Ambience",
     "description": "Calming sounds of a quiet night with a hint of wind.",
-    "audio": "https://example.com/deep_night.mp3",
-    "image": "https://example.com/deep_night.jpg"
+    "audio": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/audio/deep_night.mp3?raw=true",
+    "image": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/image/deep_night.jpg?raw=true"
   },
   {
     "id": 9,
@@ -86,7 +86,7 @@
     "free": true,
     "category": "Water",
     "description": "Powerful sounds of cascading waterfalls in a lush valley.",
-    "audio": "https://example.com/waterfalls.mp3",
-    "image": "https://example.com/waterfalls.jpg"
+    "audio": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/audio/waterfalls.mp3?raw=true",
+    "image": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/image/waterfalls.jpg?raw=true"
   }
 ]
