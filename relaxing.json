@@ -158,7 +158,7 @@
     "free": false,
     "category": "relaxing",
     "description": "Enjoy the soothing sounds of birds chirping near the seaside. Let the calming melodies transport you to a peaceful coastal environment.",
-    "audio": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/audio/birds_at_seaside.mp3?raw=true",
-    "image": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/image/birds_at_seaside.jpg?raw=true"
+    "audio": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/audio/birds_seaside.mp3?raw=true",
+    "image": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/image/birds_seaside.jpg?raw=true"
   }
 ]
