@@ -47,7 +47,7 @@
   {
     "id": 5,
     "name": "Underwater",
-    "free": false,
+    "free": true,
     "category": "Water",
     "description": "Submerged sounds of the ocean depths.",
     "audio": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/audio/underwater.mp3?raw=true",
@@ -88,5 +88,77 @@
     "description": "Powerful sounds of cascading waterfalls in a lush valley.",
     "audio": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/audio/waterfalls.mp3?raw=true",
     "image": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/image/waterfalls.jpg?raw=true"
+  },
+  {
+    "id": 10,
+    "name": "Rain on the Beach",
+    "free": false,
+    "category": "Nature",
+    "description": "Relaxing sound of raindrops falling on the sandy beach.",
+    "audio": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/audio/rain_on_beach.mp3?raw=true",
+    "image": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/image/rain_on_beach.jpg?raw=true"
+  },
+  {
+    "id": 11,
+    "name": "Birds at the Seaside",
+    "free": false,
+    "category": "Nature",
+    "description": "Sounds of birds singing near the peaceful seaside.",
+    "audio": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/audio/birds_seaside.mp3?raw=true",
+    "image": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/image/birds_seaside.jpg?raw=true"
+  },
+  {
+    "id": 12,
+    "name": "Desert Wind",
+    "free": false,
+    "category": "Wind",
+    "description": "Gentle breeze blowing through the desert.",
+    "audio": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/audio/desert_wind.mp3?raw=true",
+    "image": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/image/desert_wind.jpg?raw=true"
+  },
+  {
+    "id": 13,
+    "name": "Small Brook Water",
+    "free": false,
+    "category": "Water",
+    "description": "Soothing sound of water flowing in a small brook.",
+    "audio": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/audio/small_brook_water.mp3?raw=true",
+    "image": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/image/small_brook_water.jpg?raw=true"
+  },
+  {
+    "id": 14,
+    "name": "Bubbling Water",
+    "free": false,
+    "category": "Water",
+    "description": "Calming sound of water bubbling and gurgling.",
+    "audio": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/audio/bubbling_water.mp3?raw=true",
+    "image": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/image/bubbling_water.jpg?raw=true"
+  },
+  {
+    "id": 15,
+    "name": "Canadian Forest",
+    "free": false,
+    "category": "Nature",
+    "description": "Peaceful sounds of the Canadian forest.",
+    "audio": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/audio/canadian_forest.mp3?raw=true",
+    "image": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/image/canadian_forest.jpg?raw=true"
+  },
+  {
+    "id": 16,
+    "name": "Morning in the Village",
+    "free": false,
+    "category": "Ambience",
+    "description": "Ambient sounds of a tranquil morning in a village.",
+    "audio": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/audio/morning_village.mp3?raw=true",
+    "image": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/image/morning_village.jpg?raw=true"
+  },
+  {
+    "id": 17,
+    "name": "Birds at Seaside",
+    "free": false,
+    "category": "relaxing",
+    "description": "Enjoy the soothing sounds of birds chirping near the seaside. Let the calming melodies transport you to a peaceful coastal environment.",
+    "audio": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/audio/birds_at_seaside.mp3?raw=true",
+    "image": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/image/birds_at_seaside.jpg?raw=true"
   }
 ]
