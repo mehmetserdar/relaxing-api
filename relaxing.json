@@ -10,13 +10,13 @@
   },
   {
     "id": 1,
-    "name": "Jungle Birds",
-    "free": true,
-    "category": "Nature",
-    "description": "Sounds of birds chirping in a lush jungle.",
-    "audio": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/audio/jungle_birds.mp3?raw=true",
-    "image": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/image/jungle_birds.jpg?raw=true"
-  },
+    "name": "Ocean Waves",
+    "free": false,
+    "category": "Water",
+    "description": "Gentle sounds of waves crashing on a sandy beach.",
+    "audio": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/audio/ocean_waves.mp3?raw=true",
+    "image": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/image/ocean_waves.jpg?raw=true"
+  },  
   {
     "id": 2,
     "name": "Rain and Thunder",
@@ -64,12 +64,12 @@
   },
   {
     "id": 7,
-    "name": "Ocean Waves",
-    "free": false,
-    "category": "Water",
-    "description": "Gentle sounds of waves crashing on a sandy beach.",
-    "audio": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/audio/ocean_waves.mp3?raw=true",
-    "image": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/image/ocean_waves.jpg?raw=true"
+    "name": "Jungle Birds",
+    "free": true,
+    "category": "Nature",
+    "description": "Sounds of birds chirping in a lush jungle.",
+    "audio": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/audio/jungle_birds.mp3?raw=true",
+    "image": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/image/jungle_birds.jpg?raw=true"
   },
   {
     "id": 8,
