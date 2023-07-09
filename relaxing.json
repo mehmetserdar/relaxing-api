@@ -11,7 +11,7 @@
   {
     "id": 1,
     "name": "Ocean Waves",
-    "free": false,
+    "free": true,
     "category": "Water",
     "description": "Gentle sounds of waves crashing on a sandy beach.",
     "audio": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/audio/ocean_waves.mp3?raw=true",
@@ -65,7 +65,7 @@
   {
     "id": 7,
     "name": "Jungle Birds",
-    "free": true,
+    "free": false,
     "category": "Nature",
     "description": "Sounds of birds chirping in a lush jungle.",
     "audio": "https://github.com/mehmetserdar/relaxing-api/blob/main/assets/audio/jungle_birds.mp3?raw=true",
